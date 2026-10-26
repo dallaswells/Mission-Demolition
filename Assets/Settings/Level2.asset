@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c9825ec7efefff4595d25acbeaf1bf9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  castleName: Twin Towers
+  hint: 'Two walls protect the goal. Gold: 2 shots.'
+  prefab: {fileID: 1820920250130861584, guid: 03a4fef1916b3774cb9fb4572213d66b, type: 3}
+  goldShots: 2
+  silverShots: 4
